@@ -11,4 +11,4 @@
 ##### Join us on Discord : 
 https://discord.gg/uW5jyRMQJU
 
-Active Team members : [pavl_g](https://github.com/Scrappers-glitch) and [@2Math0](https://github.com/2Math0). <br/>
+Active Team members : [@pavl_g](https://github.com/Scrappers-glitch) and [@2Math0](https://github.com/2Math0). <br/>
